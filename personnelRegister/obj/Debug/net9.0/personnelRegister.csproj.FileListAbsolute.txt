@@ -12,3 +12,4 @@
 /Users/malin/Documents/school-projects/backend/personnel-register/personnelRegister/obj/Debug/net9.0/personnelRegister.pdb
 /Users/malin/Documents/school-projects/backend/personnel-register/personnelRegister/obj/Debug/net9.0/personnelRegister.genruntimeconfig.cache
 /Users/malin/Documents/school-projects/backend/personnel-register/personnelRegister/obj/Debug/net9.0/ref/personnelRegister.dll
+/Users/malin/Documents/school-projects/backend/personnel-register/personnelRegister/obj/Debug/net9.0/personnelRegister.sourcelink.json
