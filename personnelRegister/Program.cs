@@ -52,7 +52,7 @@
         {
             foreach (Employee employee in employees)
             {
-                Console.WriteLine("Full name: " + employee.fullName + ", Monthly salary: " + employee.monthlySalary);
+                Console.WriteLine("Namn: " + employee.fullName + ", Lön: " + employee.monthlySalary + "/mån");
             }
         }
     }
