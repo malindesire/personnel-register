@@ -1,0 +1,14 @@
+/Users/malin/Documents/school-projects/backend/personnel-register/personnelRegister/bin/Debug/net9.0/personnelRegister
+/Users/malin/Documents/school-projects/backend/personnel-register/personnelRegister/bin/Debug/net9.0/personnelRegister.deps.json
+/Users/malin/Documents/school-projects/backend/personnel-register/personnelRegister/bin/Debug/net9.0/personnelRegister.runtimeconfig.json
+/Users/malin/Documents/school-projects/backend/personnel-register/personnelRegister/bin/Debug/net9.0/personnelRegister.dll
+/Users/malin/Documents/school-projects/backend/personnel-register/personnelRegister/bin/Debug/net9.0/personnelRegister.pdb
+/Users/malin/Documents/school-projects/backend/personnel-register/personnelRegister/obj/Debug/net9.0/personnelRegister.GeneratedMSBuildEditorConfig.editorconfig
+/Users/malin/Documents/school-projects/backend/personnel-register/personnelRegister/obj/Debug/net9.0/personnelRegister.AssemblyInfoInputs.cache
+/Users/malin/Documents/school-projects/backend/personnel-register/personnelRegister/obj/Debug/net9.0/personnelRegister.AssemblyInfo.cs
+/Users/malin/Documents/school-projects/backend/personnel-register/personnelRegister/obj/Debug/net9.0/personnelRegister.csproj.CoreCompileInputs.cache
+/Users/malin/Documents/school-projects/backend/personnel-register/personnelRegister/obj/Debug/net9.0/personnelRegister.dll
+/Users/malin/Documents/school-projects/backend/personnel-register/personnelRegister/obj/Debug/net9.0/refint/personnelRegister.dll
+/Users/malin/Documents/school-projects/backend/personnel-register/personnelRegister/obj/Debug/net9.0/personnelRegister.pdb
+/Users/malin/Documents/school-projects/backend/personnel-register/personnelRegister/obj/Debug/net9.0/personnelRegister.genruntimeconfig.cache
+/Users/malin/Documents/school-projects/backend/personnel-register/personnelRegister/obj/Debug/net9.0/ref/personnelRegister.dll
